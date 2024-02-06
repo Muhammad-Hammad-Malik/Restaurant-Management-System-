@@ -1,0 +1,6 @@
+5
+Fries 300
+Loaded_fries 500
+Drink 100
+cheese_slice 150
+Salad 100

@@ -1,0 +1,6 @@
+5
+John 43000 Manager
+Mack 32000 Server
+Hash 29000 Server
+Mike 29400 Guard
+Xavier 31203 Server

@@ -1,0 +1,11 @@
+10
+Supreme_large 1000
+Supreme_medium 800
+Supreme_small 600
+Lasagnia_large 1000
+Lasagnia_medium 800
+Lasagnia_small 600
+Special_large 1000
+Special_medium 800
+Special_small 600
+Malai_boti_Large 1500

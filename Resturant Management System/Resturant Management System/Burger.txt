@@ -1,0 +1,6 @@
+5
+Chicken_burger 300
+Zinger_burger 400
+Beef_burger 500
+Special_BBQ 1000
+Supereme 1500
